@@ -11,4 +11,4 @@
 </div>
   
   ##
- ![Snake animation](https://github.com/rafaballerini/Djsawb/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Djsawb/Djsawb/blob/output/github-contribution-grid-snake.svg)
